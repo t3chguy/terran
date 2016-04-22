@@ -18,7 +18,7 @@ function fish_right_prompt
         set -e gap
     end
 
-    if set -l last_job_id (last_job_id)
+    if set -l last_job_id (last_job_id -l)
         if not set -q gap
             segment_right $back_color
         end
