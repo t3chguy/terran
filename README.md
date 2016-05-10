@@ -10,10 +10,10 @@ Powerline prompt based on the Terran race.
 
 ## Install
 
-With [Fisherman]
+With [fisherman]
 
 ```fish
-fisher i terran
+fisher terran
 ```
 
 ## Terminal Settings
@@ -26,7 +26,7 @@ fisher i terran
 [slack-link]: https://fisherman-wharf.herokuapp.com/
 [slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
 
-[Fisherman]: https://github.com/fisherman/fisherman
+[fisherman]: https://github.com/fisherman/fisherman
 [Powerline]: https://github.com/powerline/fonts
 [Terran.terminal]: https://github.com/fishery/terran/raw/master/Terran.terminal
 [Terran.itermcolors]: https://github.com/fishery/terran/raw/master/Terran.itermcolors
