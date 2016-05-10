@@ -4,7 +4,7 @@
 
 > “You wanna piece of me, boy?” — _Marine_
 
-Powerline prompt based on the Terran race.
+[Powerline] prompt based on the Terran race.
 
 ![Terran]
 
