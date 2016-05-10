@@ -30,4 +30,4 @@ fisher terran
 [Powerline]: https://github.com/powerline/fonts
 [Terran.terminal]: https://github.com/fishery/terran/raw/master/Terran.terminal
 [Terran.itermcolors]: https://github.com/fishery/terran/raw/master/Terran.itermcolors
-[Terran]: https://cloud.githubusercontent.com/assets/8317250/14098418/8ca308b6-f5b6-11e5-91e0-c6e7c97d2c8b.png
+[Terran]: https://cloud.githubusercontent.com/assets/8317250/15148703/63581c5a-1701-11e6-815d-d6703d9593e0.png

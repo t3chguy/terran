@@ -6,9 +6,9 @@ function set_color_custom
     set -U fish_color_comment               555
     set -U fish_color_error                 fc0
     set -U fish_color_escape                fc0
-    set -U fish_color_operator              fc0
+    set -U fish_color_operator              33f
     set -U fish_color_end                   33f
-    set -U fish_color_quote                 33f
+    set -U fish_color_quote                 fc0
     set -U fish_color_autosuggestion        555
     set -U fish_color_valid_path            --underline
     set -U fish_color_cwd                   99f
