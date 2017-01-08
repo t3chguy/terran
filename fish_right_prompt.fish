@@ -37,7 +37,7 @@ function fish_right_prompt
     end
 
     if not set -q gap
-        printf (set_color $status_color[2] -b black)(set_color normal)
+        printf (set_color $status_color[2] -b normal)(set_color normal)
     end
 
     segment_close
